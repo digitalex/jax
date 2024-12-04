@@ -17,6 +17,8 @@
 
 ## What is JAX?
 
+Here's a test paragraph.
+
 JAX is a Python library for accelerator-oriented array computation and program transformation,
 designed for high-performance numerical computing and large-scale machine learning.
 
